@@ -58,5 +58,3 @@ Este workflow implementa la lógica para deshabilitar ciertos campos en función
 #### **Licencia y Créditos**
 - **Licencia**: Propiedad interna de la organización.
 - **Créditos**: Creado por el equipo de desarrollo interno para la gestión avanzada de costos de transporte en NetSuite.
-
-¿Hay algún detalle adicional que te gustaría incluir o ajustar?
