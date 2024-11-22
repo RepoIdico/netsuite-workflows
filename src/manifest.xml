@@ -1,4 +1,4 @@
 <manifest projecttype="ACCOUNTCUSTOMIZATION">
-  <projectname>IDICO_WF_Freight_Control</projectname>
+  <projectname>Workflows_Repository</projectname>
   <frameworkversion>1.0</frameworkversion>
 </manifest>
